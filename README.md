@@ -1,6 +1,7 @@
 # OVERVIEW 📚
-This project aims to build an automated classification system based on deep learning techniques to predict the presence of melanoma skin cancer using skin lesions images.
-
+In this project, we have built an automatic online exam
+proctoring system that provides improved authentication and
+abnormal behavior monitoring of examinees in the online examination based on image information. We have used image processing and deep learning to build the system.
 ***Keywords:*** *Computer-Aided Diagnosis (CAD), Teledermatology automated diagnosis system*
 
 
