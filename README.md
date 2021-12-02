@@ -17,7 +17,7 @@ Watch the [Video](https://youtu.be/lGGHgPYJ4ig) for more details.
 
 # INSTALLATION AND USER GUIDE 🔌
 
-Refer to [Installation Guide](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Documentation/Installation_Guide.pdf).
+Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Documentation/Installation_Guide.pdf).
 
 ---
 
