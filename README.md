@@ -9,7 +9,7 @@ Refer to the [Report](https://github.com/AparGarg99/Intelligent-Online-Exam-Proc
 ---
 
 # VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
-![](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/Miscellaneous/demo1.gif)
+![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Miscellaneous/Dataset/demo.gif)
 
 * [Watch Video](https://youtu.be/lGGHgPYJ4ig)
 * [Download Video](https://drive.google.com/file/d/1YfkL-xNURQe3YFWmfWYjIaU3ODkrbS9f/view?usp=sharing)
