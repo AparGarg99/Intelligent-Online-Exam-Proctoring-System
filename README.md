@@ -2,8 +2,6 @@
 In this project, we have built an automatic online exam
 proctoring system that provides improved authentication and
 abnormal behavior monitoring of examinees in the online examination based on image information. We have used image processing and deep learning to build the system.
-***Keywords:*** *Computer-Aided Diagnosis (CAD), Teledermatology automated diagnosis system*
-
 
 Refer to the [Report](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Documentation/ITSS_Project_Report.pdf) for more details:
 
