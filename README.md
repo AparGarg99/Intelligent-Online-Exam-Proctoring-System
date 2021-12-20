@@ -33,7 +33,5 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 
 ![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/id_card_detection/demo_2.gif)
 
-![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/id_card_detection/demo.gif)
-
 ---
 ***Don't forget to give a ⭐ if you like this project !!***
