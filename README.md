@@ -31,7 +31,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 ---
 # NEW FUNCTIONALITIES 🐣
 
-* Instead of maintaining a database of student face images, face verification can be performed directly with the ID Card issued to the student.
+* Instead of maintaining a database of student face images, face verification can be performed directly with the photo in the ID Card issued to the student.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/id_card_detection/demo_2.gif)
 
