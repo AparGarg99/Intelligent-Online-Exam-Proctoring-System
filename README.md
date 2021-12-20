@@ -29,7 +29,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 | Gopan Ravikumar Girija  | rggopan123@gmail.com |
 
 ---
-# NEW FUNCTIONALITIES 👶🏻
+# NEW FUNCTIONALITIES 🐣
 
 * Instead of maintaining a database of student face images, face verification can be performed directly with the ID Card issued to the student.
 
