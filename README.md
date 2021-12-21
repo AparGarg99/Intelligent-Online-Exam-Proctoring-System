@@ -41,7 +41,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 * Accurate eye tracking/gaze estimation.
 * Accurate face spoofing detection.
 * Detect nano-sized, non-wired devices such as Bluetooth earpieces,Spy eyewear, invisible smartwatch.
-* Speaker verification ![Ref1](https://github.com/Atul-Anand-Jha/Speaker-Identification-Python) | ![Ref2](https://github.com/resemble-ai/Resemblyzer)
+* Speaker verification [Ref1](https://github.com/Atul-Anand-Jha/Speaker-Identification-Python) | [Ref2](https://github.com/resemble-ai/Resemblyzer)
 
 ---
 ***Don't forget to give a ⭐ if you like this project !!***
