@@ -36,4 +36,12 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/id_card_detection/demo_2.gif)
 
 ---
+
+# FUTURE WORK
+* Accurate eye tracking/gaze estimation.
+* Accurate face spoofing detection.
+* Detect nano-sized, non-wired devices such as Bluetooth earpieces,Spy eyewear, invisible smartwatch.
+* Speaker verification ![Ref1]https://github.com/Atul-Anand-Jha/Speaker-Identification-Python | ![Ref2](https://github.com/resemble-ai/Resemblyzer)
+
+---
 ***Don't forget to give a ⭐ if you like this project !!***
