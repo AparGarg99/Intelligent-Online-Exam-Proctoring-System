@@ -39,6 +39,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 
 # FUTURE WORK
 * Accurate eye tracking/gaze estimation.
+* Distance estimation using single camera (non-stereo).
 * Accurate face spoofing detection.
 * Detect nano-sized, non-wired devices such as Bluetooth earpieces,Spy eyewear, invisible smartwatch.
 * Speaker verification [Ref1](https://github.com/Atul-Anand-Jha/Speaker-Identification-Python) | [Ref2](https://github.com/resemble-ai/Resemblyzer)
