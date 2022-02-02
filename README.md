@@ -37,7 +37,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 
 * Distance estimation from webcam to candidate using single camera (non-stereo) to check if candidate is sitting at a reasonable distance from the camera.
 
-![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/distance_estimation/demo.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/New_Functionalities/distance_estimation/demo.gif)
 
 ---
 
