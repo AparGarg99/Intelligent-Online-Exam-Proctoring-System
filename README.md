@@ -8,7 +8,7 @@ Refer to the [Report](https://github.com/AparGarg99/Intelligent-Online-Exam-Proc
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
+# SYSTEM DEMO 🎥
 ![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Miscellaneous/Dataset/demo.gif)
 
 Watch the [Video](https://youtu.be/lGGHgPYJ4ig) for more details.
