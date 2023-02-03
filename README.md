@@ -42,6 +42,7 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/Intelligent-Onli
 ---
 
 # FUTURE WORK
+* Lip reading
 * Accurate eye tracking/gaze estimation.
 * Accurate face spoofing detection.
 * Detect nano-sized, non-wired devices such as Bluetooth earpieces,Spy eyewear, invisible smartwatch.
